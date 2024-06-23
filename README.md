@@ -1,5 +1,5 @@
 # Surf's Up
-Module 9: Jupyter Notebook &amp; SQLite &amp; VS Code: Surf's Up with Advanced Data Storage and Retrieval
+Module 9: Jupyter Notebook &amp; SQLite &amp; VS Code - Surf's Up with Advanced Data Storage and Retrieval
 ## Overview of the statistical analysis
 The purpose of the original analysis of the module was to analyze trends in weather data including temperatures and precipitation in Hawaii for W. Avy's ice cream and surfing supply shop. This was done using jupyter notebooks and SQLite queries into a database for weather data according to date. An additional analysis was asked which required temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business was sustainable year-round. 
 ## Results
